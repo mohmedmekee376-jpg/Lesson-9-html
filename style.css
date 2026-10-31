@@ -1,0 +1,19 @@
+*{
+  background-color:#0B0C10;
+}
+.address{
+  color: white;
+  text-align: center;
+}
+.explorer{
+  color: white;
+  text-align: right;
+}
+.vehicle{
+  color: white;
+  text-align: right;
+}
+.mission{
+  color: white;
+  text-align: right;
+}
